@@ -98,6 +98,10 @@ h2 {
   flex-direction: column;
 }
 
+#radius-img {
+  border-radius: 50%;
+}
+
 #share-border {
   margin-left: auto;
   width: 32px;
